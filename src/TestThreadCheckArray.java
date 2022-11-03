@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class TestThreadCheckArray {
+	/**
+	 * @param args
+	 * main function
+	 */
 	@SuppressWarnings("null")
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
