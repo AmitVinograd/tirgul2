@@ -8,7 +8,7 @@ public class TestThreadCheckArray {
 			Thread thread1, thread2;
 			System.out.println("Enter array size");
 			int num  = input.nextInt();
-			ArrayList<Integer> array = null;
+			ArrayList<Integer> array = new ArrayList<Integer>();
 			System.out.println("Enter numbers for array");
 			
 			for (int index = 0; index < num; index++) 
