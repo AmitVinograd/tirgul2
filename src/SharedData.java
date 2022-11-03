@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class SharedData 
 {
+	//////yukgkgykgg
 	private ArrayList<Integer> array;
 	private boolean [] winArray;
 	private boolean flag;
