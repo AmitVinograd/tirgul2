@@ -37,7 +37,7 @@ public class ThreadCheckArray implements Runnable
 				}			
 			}
 			if (b == array.get(n-1))
-				winArray[n-1] =true;
+				winArray[n-1] = true;
 			return;
 		}
 		
